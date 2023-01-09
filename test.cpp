@@ -10,5 +10,5 @@ int func(int n){
 
 
 int main(){
-    cout << func(3243);
+    cout << func(333);
 }
